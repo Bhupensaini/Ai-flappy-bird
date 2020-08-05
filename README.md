@@ -6,15 +6,12 @@ SETUP -
     
       pygame
       random
-      
-      os
-      
+      os 
       time
-      
       neat     
       
       
-    Modules installation-
+Modules installation-
     
         * pip install os
         * pip install time
